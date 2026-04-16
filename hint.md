@@ -26,7 +26,7 @@ $$\frac{\pi}{15} \to x\degree$$
 
 7. 3
 
-insert that one picture
+$$4\sin^2{60\degree}$$
 
 8. 59
 
